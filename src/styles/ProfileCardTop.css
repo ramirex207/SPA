@@ -1,0 +1,14 @@
+.profile-card-top{
+    background-image: url('../Assets/bg-pattern-card.svg');
+    height: 120px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.profile-card-top img{
+    height: 120px;
+    border-radius: 50%;
+    border: 5px;
+    position: absolute;
+    bottom: -50px;
+}

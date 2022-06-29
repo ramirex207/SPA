@@ -1,0 +1,23 @@
+.datos-profile > div{
+    height: 120px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+.datos-profile > div span:nth-child(1){
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 8px;
+}
+
+.datos-profile > div span:nth-child(2){
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+.datos-profile p {
+    text-align: center;
+    color: black;
+    font-size: 14px;
+}

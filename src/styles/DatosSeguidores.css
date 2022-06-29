@@ -1,0 +1,16 @@
+.datos-seguidores{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid black;
+}
+.datos-seguidores div p:nth-chlid(1){
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+.datos-seguidores div p:nth-chlid(2){
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+}

@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Kumbh Sans", sans-serif;
+    font-family: "Quicksand", sans-serif;
+}
+body {
+    background: var(--Dark-cyan);
+    height: 100vh;
+    background-image: url('./Assets/bg-pattern-botton.svg'),url('./Assets/bg-pattern-top.svg');
+    background-position: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
